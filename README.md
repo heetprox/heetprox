@@ -9,16 +9,14 @@ Freelancer | Protocol Architect | Solidity | Web3/ethers.js | Desktop-Tauri | Fu
 ⚙️ Always exploring innovative tools like Tauri and frameworks like Framer Motion.
 🎨 Collaboration-driven and consistent in delivering high-quality solutions.
 
-
----
-
-## 🛠️ Technologies & Tools  
-
-![Next.js](https://img.shields.io/badge/Framework-Next.js-black)  ![Tailwind CSS](https://img.shields.io/badge/Style-TailwindCSS-teal)  ![Solidity](https://img.shields.io/badge/Blockchain-Solidity-lightgrey)  
-![Web3.js](https://img.shields.io/badge/Library-Web3.js-green)  ![Ethers.js](https://img.shields.io/badge/Library-Ethers.js-purple)  ![Node.js](https://img.shields.io/badge/Backend-Node.js-green)  
-![React](https://img.shields.io/badge/Framework-React-blue)  ![MongoDB](https://img.shields.io/badge/Database-MongoDB-brightgreen)  ![Framer Motion](https://img.shields.io/badge/Animation-FramerMotion-pink)  
-![GSAP](https://img.shields.io/badge/Animation-GSAP-lime)  ![Figma](https://img.shields.io/badge/Design-Figma-blueviolet)  ![HTML5](https://img.shields.io/badge/Code-HTML5-orange)  
-![CSS3](https://img.shields.io/badge/Style-CSS3-blue)  ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)  
+- Programming: JavaScript, Solidity  
+- Frameworks: Next.js, React, Node.js, Express.js  
+- Technologies: Web3.js, Ethers.js, IPFS, REST APIs, Postman, Git, Vercel, Hostinger  
+- Frontend Tools: Tailwind CSS, Framer Motion, GSAP  
+- Backend & Database: MongoDB, Mongoose  
+- Blockchain: Smart Contract Development, Polygon Mumbai Testnet  
+- Design: Figma  
+- Hosting & Deployment: Vercel, Hostinger  
 
 
 ---
@@ -73,4 +71,17 @@ Freelancer | Protocol Architect | Solidity | Web3/ethers.js | Desktop-Tauri | Fu
 
 🌟 **“Code is poetry. Blockchain is the future.”**  
 💻 Let’s build something amazing together!
+
+---
+
+## 🛠️ Technologies & Tools   
+
+![Next.js](https://img.shields.io/badge/Framework-Next.js-black)  ![Tailwind CSS](https://img.shields.io/badge/Style-TailwindCSS-teal)  ![Solidity](https://img.shields.io/badge/Blockchain-Solidity-lightgrey)  
+![Web3.js](https://img.shields.io/badge/Library-Web3.js-green)  ![Ethers.js](https://img.shields.io/badge/Library-Ethers.js-purple)  ![Node.js](https://img.shields.io/badge/Backend-Node.js-green)  
+![React](https://img.shields.io/badge/Framework-React-blue)  ![MongoDB](https://img.shields.io/badge/Database-MongoDB-brightgreen)  ![Framer Motion](https://img.shields.io/badge/Animation-FramerMotion-pink)  
+![GSAP](https://img.shields.io/badge/Animation-GSAP-lime)  ![Figma](https://img.shields.io/badge/Design-Figma-blueviolet)  ![HTML5](https://img.shields.io/badge/Code-HTML5-orange)  
+![CSS3](https://img.shields.io/badge/Style-CSS3-blue)  ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)  
+
+
+---
 
