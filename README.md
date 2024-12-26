@@ -1,8 +1,14 @@
 # 👋 Hi, I'm Heet Vavadiya!  
 
-🚀 **Full-Stack Developer | Blockchain Enthusiast | Freelancer**  
-🎓 **2nd Year Computer Science Student at VGEC**  
-🌐 [LinkedIn](https://www.linkedin.com/in/heet-vavadiya-456k) | ✉️ heetvavadiya099@gmail.com  
+Freelancer | Protocol Architect | Solidity | Web3/ethers.js | Desktop-Tauri | Full-Stack/NEXT-15 | @VGEC | @Buildspace S5
+🌐 [LinkedIn](https://www.linkedin.com/in/heet-vavadiya-456k) | ✉️ heetvavadiya099@gmail.com  | [twitter || X](https://x.com/VirtualHeet)
+
+🌟 About Me
+🔧 Full-Stack Developer specializing in Next.js, Solidity, and Web3.
+💡 Passionate about building decentralized applications and protocols.
+⚙️ Always exploring innovative tools like Tauri and frameworks like Framer Motion.
+🎨 Collaboration-driven and consistent in delivering high-quality solutions.
+
 
 ---
 
