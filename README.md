@@ -33,9 +33,9 @@ Freelancer | Protocol Architect | Solidity | Web3/ethers.js | Desktop-Tauri | Fu
 
 ## 📚 Key Projects  
 
-### [Vaayu Jewels](https://vaayujewels.com)  
+### [vaayu jewels](https://vaayujewels.com)  
 - 🛍️ A freelance e-commerce site specializing in gold, diamond, and gemstone jewelry.  
-- 💻 Built using **Next.js**, **Tailwind CSS**, and responsive design principles.  
+- 💻 Built using **Next.js**, **Tailwind CSS**,*MongoDb || Cloudnary* and responsive design principles.  
 
 ### **Buy Me a Coffee**  
 - ☕ Developed a decentralized application for secure and transparent transactions.  
