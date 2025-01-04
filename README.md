@@ -35,7 +35,7 @@ Freelancer | Protocol Architect | Solidity | Web3/ethers.js | Desktop-Tauri | Fu
 - 🛍️ A freelance e-commerce site specializing in gold, diamond, and gemstone jewelry.  
 - 💻 Built using **Next.js**, **Tailwind CSS**,*MongoDb || Cloudnary* and responsive design principles.  
 
-### [Kafinao](https://kafinao.store)**Kafinao**  
+### [Kafinao](https://kafinao.store)  
 - ☕ Developed a Designed application for secure and transparent transactions with Razorpay.  
 - 🔗 Used **MERNSTACK**, **Razorpay**, and **Next.js**.  
 
