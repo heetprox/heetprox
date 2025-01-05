@@ -9,24 +9,6 @@ Freelancer | Protocol Architect | Solidity | Web3/ethers.js | Desktop-Tauri | Fu
 ⚙️ Always exploring innovative tools like Tauri and frameworks like Framer Motion.
 🎨 Collaboration-driven and consistent in delivering high-quality solutions.
 
-- Programming: JavaScript, Solidity  
-- Frameworks: Next.js, React, Node.js, Express.js  
-- Technologies: Web3.js, Ethers.js, IPFS, REST APIs, Postman, Git, Vercel, Hostinger  
-- Frontend Tools: Tailwind CSS, Framer Motion, GSAP  
-- Backend & Database: MongoDB, Mongoose  
-- Blockchain: Smart Contract Development, Polygon Mumbai Testnet  
-- Design: Figma  
-- Hosting & Deployment: Vercel, Hostinger  
-
-
----
-
-## 🔥 About Me  
-
-- 🖥️ Full-Stack Developer specializing in **Next.js**, **Solidity**, and **Web3.js**.  
-- 🌟 Passionate about building **decentralized applications** and designing modern, responsive UIs.  
-- 👩‍💻 Love exploring blockchain technology, from **smart contract development** to **Web3 integrations**.  
-
 ---
 
 ## 📚 Key Projects  
@@ -56,6 +38,19 @@ Freelancer | Protocol Architect | Solidity | Web3/ethers.js | Desktop-Tauri | Fu
 - 🖱️ Custom Cursor Designs: A website offering unique cursor styles.  
 - 🌾 Crins: An agriculture insurance platform integrating **weather data**.  
 - ♟️ Chess Project: My first-ever project in **JavaScript**!  
+
+---
+
+
+- Programming: JavaScript, Solidity  
+- Frameworks: Next.js, React, Node.js, Express.js  
+- Technologies: Web3.js, Ethers.js, IPFS, REST APIs, Postman, Git, Vercel, Hostinger  
+- Frontend Tools: Tailwind CSS, Framer Motion, GSAP  
+- Backend & Database: MongoDB, Mongoose  
+- Blockchain: Smart Contract Development, Polygon Mumbai Testnet  
+- Design: Figma  
+- Hosting & Deployment: Vercel, Hostinger  
+
 
 ---
 
