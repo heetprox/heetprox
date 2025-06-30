@@ -1,6 +1,6 @@
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWticjk5bDBncmpkYnBhczU3eXE0YW9uN3ZsYzg2OGxqcWFvODRoZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XIqCQx02E1U9W/giphy.gif" alt="Coding in action" width="100%" />
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hey, I'm Heet.
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hey, I'm Heet
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Blockchain+Developer;Next.js+%26+Express+Expert;TypeScript+%26+Solidity+Master;Web3+%26+DeFi+Enthusiast;GSAP+%26+Framer+Motion+Wizard;Cloud+%26+Socket+Specialist&font=Fira%20Code&center=false&width=600&height=45&color=f75c7e&vCenter=true&size=22">
 
@@ -11,7 +11,29 @@
 
 🌐 **Portfolio:** [heet.pro](https://heet.pro) • 📺 **Work:** [Repixelx Studio]([https://www.youtube.com/channel/UCeYt6blRBKuNrEg_-282fSA](https://www.repixelx.com/)) • 📝 **X:** [posts](https://x.com/heetprox) • 📧 **Email:** heetvavadiya099@gmail.com
 
+
 ---
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Featured Projects
+
+**🎯 Want to track your coding activities**
+
+# [TrackYou](https://github.com/heetpro/Track-You.git)
+
+---
+
+**🎵 Connect with music lovers and discover new tracks**
+
+# [TuneIn](https://github.com/heetpro/Tune-In.git)
+
+---
+
+**💰 Decentralized financial solution**
+
+# [PayCrypt](https://paycrypt.tech)
+
+---
+
 
 ### <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Tech Stack & Expertise
 
@@ -21,21 +43,7 @@
   <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/gsap-icon.svg" alt="GSAP" width="40" height="40" />
 </p>
 
----
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Featured Projects
-
-**🎯 TrackYou - Coding Activity Tracker**  
-Advanced development analytics with real-time tracking  
-🔗 [GitHub](https://github.com/heetpro/Track-You.git) • 🛠️ Built with: Next.js, TypeScript, Socket.io
-
-**🎵 TuneIn - Music Social Platform**  
-Connect with music lovers and discover new tracks  
-🔗 [GitHub](https://github.com/heetpro/Tune-In.git) • 🛠️ Built with: React, Node.js, MongoDB
-
-**💰 PayCrypt - DeFi Financial Solution**  
-Decentralized payment system with smart contracts  
-🔗 [Live Demo](https://paycrypt.tech) • 🛠️ Built with: Solidity, Web3.js, Next.js
 
 ---
 
