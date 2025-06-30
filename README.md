@@ -1,4 +1,10 @@
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWticjk5bDBncmpkYnBhczU3eXE0YW9uN3ZsYzg2OGxqcWFvODRoZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XIqCQx02E1U9W/giphy.gif" alt="Coding in action" width="100%" />
+<div style="overflow:hidden; height:90vh;">
+  <img
+    src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWticjk5bDBncmpkYnBhczU3eXE0YW9uN3ZsYzg2OGxqcWFvODRoZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XIqCQx02E1U9W/giphy.gif"
+    style="object-fit:cover; object-position: 50% 10%; width:100%; height:auto;"
+    alt="Coding in action"
+  />
+</div>
 
 
 <h2 align="left">Hi 👋, I'm Heet.</h1>
