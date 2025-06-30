@@ -1,4 +1,4 @@
-<div style="overflow:hidden; height:90vh;">
+<div style="overflow:hidden; height:50vh;">
   <img
     src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWticjk5bDBncmpkYnBhczU3eXE0YW9uN3ZsYzg2OGxqcWFvODRoZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XIqCQx02E1U9W/giphy.gif"
     style="object-fit:cover; object-position: 50% 10%; width:100%; height:auto;"
