@@ -38,7 +38,7 @@ Need Decentralized Financial Solution👇: </br>
 ### <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Tech Stack & Expertise
 
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,nodejs,express,tailwind,css,html,sass,bootstrap,solidity,ethereum,mongodb,mysql,postgresql,redis,firebase,git,github,vscode,postman,webpack,vite,aws,gcp,vercel,docker,kubernetes,cloudflare,metamask" alt="tech icons" />
   <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/gsap-icon.svg" alt="GSAP" width="40" height="40" />
 </p>
