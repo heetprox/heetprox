@@ -1,4 +1,4 @@
-<img src="https://in.pinterest.com/16fc7cf6-8a47-411c-9f87-02684032afc8" alt="Coding in action" width="100%" />
+<img src="https://assets.pinterest.com/ext/embed.html?id=25825397856314802" alt="Coding in action" width="100%" />
 <iframe src="https://assets.pinterest.com/ext/embed.html?id=25825397856314802" height="400" width="450" frameborder="0" scrolling="no" ></iframe>
 
 <h2 align="left">Hi 👋, I'm Heet.</h1>
