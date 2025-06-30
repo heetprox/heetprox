@@ -1,4 +1,4 @@
-<img src="blob:https://in.pinterest.com/16fc7cf6-8a47-411c-9f87-02684032afc8" alt="Coding in action" width="100%" />
+<img src="https://in.pinterest.com/16fc7cf6-8a47-411c-9f87-02684032afc8" alt="Coding in action" width="100%" />
 
 <h2 align="left">Hi 👋, I'm Heet.</h1>
 <h3 align="left">A passionate Web developer. Love to build beautiful websites with latest tech available😄
