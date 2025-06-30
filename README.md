@@ -14,23 +14,24 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Featured Projects
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Featured Projects
+<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="40"> Want to track your coding activities?
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="30"> TrackYou
+Advanced development analytics with real-time tracking
+Show Image Show Image Show Image
 
-**🎯 Want to track your coding activities**
+<img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="40"> Connect with music lovers and discover new tracks
+<img src="https://media.giphy.com/media/l2Je66zG6mAAZxgqI/giphy.gif" width="30"> TuneIn
+Music social platform for discovering and sharing tracks
+Show Image Show Image Show Image
 
-# [TrackYou](https://github.com/heetpro/Track-You.git)
+<img src="https://media.giphy.com/media/3o7qDEq2bMbcbPRQ2c/giphy.gif" width="40"> Decentralized financial solution
+<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"> PayCrypt
+DeFi payment system with smart contracts
+Show Image Show Image Show Image
 
----
 
-**🎵 Connect with music lovers and discover new tracks**
-
-# [TuneIn](https://github.com/heetpro/Tune-In.git)
-
----
-
-**💰 Decentralized financial solution**
-
-# [PayCrypt](https://paycrypt.tech)
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Latest Articles
 
 ---
 
