@@ -1,4 +1,4 @@
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgI5Xls3sx7IiwyFfadaeLLWrbFiMAJsBuTi_XrtkR5XcTdY2qXNrQNpgXSbHa6DAB2V4EYGHwWuBQHgZXn4xkCd2sGuzedLXeZwHmNsgxcmb1WfjD5wP4Da3En1oyn3yQQSToviEFNkI87bbC0G4F9BZucslZu5QNFAXXyAM3PyPuNewYYxSUDVuwdOxeN/s640/Mercenary%20Garage%20Blog%20Custom%20Motorcycle%20Design%20Kirokaze%20Tired%20Now%208%20Bit%20Anime%20Cyberpunk%20GIF.webp" alt="Coding in action" width="100%" />
+<img src="blob:https://in.pinterest.com/16fc7cf6-8a47-411c-9f87-02684032afc8" alt="Coding in action" width="100%" />
 
 <h2 align="left">Hi 👋, I'm Heet.</h1>
 <h3 align="left">A passionate Web developer. Love to build beautiful websites with latest tech available😄
