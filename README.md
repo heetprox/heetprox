@@ -29,7 +29,7 @@ Want to find your music buddy👇: </br>
 Need Decentralized Financial Solution👇: </br>
 📺 <a href="https://paycrypt.tech" target="blank">PayCrypt</a> </br>
 
-
+</br>
 
 
 ---
@@ -40,14 +40,13 @@ Need Decentralized Financial Solution👇: </br>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,nodejs,express,tailwind,css,html,sass,bootstrap,solidity,ethereum,mongodb,mysql,postgresql,redis,firebase,git,github,vscode,postman,webpack,vite,aws,gcp,vercel,docker,kubernetes,cloudflare,metamask" alt="tech icons" />
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/gsap-icon.svg" alt="GSAP" width="40" height="40" />
 </p>
 
 
 
 ---
 
-#---
+---
 
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/> GitHub Stats
 
