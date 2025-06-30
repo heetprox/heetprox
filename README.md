@@ -1,73 +1,24 @@
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWticjk5bDBncmpkYnBhczU3eXE0YW9uN3ZsYzg2OGxqcWFvODRoZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XIqCQx02E1U9W/giphy.gif" alt="Coding in action" width="100%" />
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi there, I'm Heet Vavadiya 
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hey, I'm Heet.
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Blockchain+Developer;Next.js+%26+Express+Expert;TypeScript+%26+Solidity+Master;Web3+%26+DeFi+Enthusiast;GSAP+%26+Framer+Motion+Wizard;Cloud+%26+Socket+Specialist&font=Fira%20Code&center=false&width=600&height=45&color=f75c7e&vCenter=true&size=22">
 
 ---
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
-
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
-
-**A passionate Full-Stack Blockchain Developer who loves building beautiful, scalable applications with cutting-edge technology! 🚀**
-
-- 🔭 Currently working on **RePixelx Studio** and **DevDreaming**
-- 🌱 Mastering **Web3, DeFi, AI/ML integration**
-- 👨‍💻 Expert in **Next.js, Express, TypeScript, Solidity**
-- 🎨 Animation specialist with **GSAP & Framer Motion**
-- ☁️ Cloud architect & **Socket.io** real-time expert
-- 💼 Available for **freelance & full-time opportunities**
-- 📫 Reach me: **heetvavadiya099@gmail.com**
-- ⚡ Fun fact: **I turn coffee into smart contracts** ☕️➡️📝
-
-<br clear="both"/>
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Connect with Me
 
-🌐 **Portfolio:** [heet.pro](https://heet.pro) • 📺 **YouTube:** [RePixelx Studio](https://www.youtube.com/channel/UCeYt6blRBKuNrEg_-282fSA) • 📝 **Blog:** [DevDreaming](https://devdreaming.com) • 📧 **Email:** heetvavadiya099@gmail.com
+🌐 **Portfolio:** [heet.pro](https://heet.pro) • 📺 **Work:** [Repixelx Studio]([https://www.youtube.com/channel/UCeYt6blRBKuNrEg_-282fSA](https://www.repixelx.com/)) • 📝 **X:** [posts](https://x.com/heetprox) • 📧 **Email:** heetvavadiya099@gmail.com
 
 ---
 
 ### <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Tech Stack & Expertise
 
-**🎯 Full-Stack Development**
-<p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,nodejs,express" />
-  <img src="https://skillicons.dev/icons?i=tailwind,css,html,sass,bootstrap" />
-</p>
 
-**⛓️ Blockchain & Web3**
-<p>
-  <img src="https://skillicons.dev/icons?i=solidity,ethereum" />
-  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ethers.js-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hardhat-F7DF1E?style=for-the-badge&logo=ethereum&logoColor=black"/>
-</p>
-
-**🎨 Animations & Design**
-<p>
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
-  <img src="https://skillicons.dev/icons?i=figma,photoshop" />
-</p>
-
-**💾 Database & Backend**
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,firebase" />
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
-</p>
-
-**☁️ Cloud & DevOps**
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,vercel,docker,kubernetes" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white"/>
-</p>
-
-**🛠️ Tools & Others**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,webpack,vite" />
-  <img src="https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,nodejs,express,tailwind,css,html,sass,bootstrap,solidity,ethereum,mongodb,mysql,postgresql,redis,firebase,git,github,vscode,postman,webpack,vite,aws,gcp,vercel,docker,kubernetes,cloudflare,metamask" alt="tech icons" />
+  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/gsap-icon.svg" alt="GSAP" width="40" height="40" />
 </p>
 
 ---
