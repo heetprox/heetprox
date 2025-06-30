@@ -14,33 +14,21 @@
 
 ---
 
----
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Featured Projects
 
-<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="40"> **Want to track your coding activities?**
+</br>
+Want To Track Your coding activities👇: </br>
+📺 <a href="https://github.com/heetpro/Track-You.git" target="blank">TrackYou</a> </br>
 
-# <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="30"> [TrackYou](https://github.com/heetpro/Track-You.git)
-*Advanced development analytics with real-time tracking*  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
+</br>
+Want to find your music buddy👇: </br>
+📺 <a href="https://github.com/heetpro/Tune-In.git" target="blank">TuneIn</a> </br>
 
----
+</br>
+Need Decentralized Financial Solution👇: </br>
+📺 <a href="https://paycrypt.tech" target="blank">PayCrypt</a> </br>
 
-<img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="40"> **Connect with music lovers and discover new tracks**
-
-# <img src="https://media.giphy.com/media/l2Je66zG6mAAZxgqI/giphy.gif" width="30"> [TuneIn](https://github.com/heetpro/Tune-In.git)
-*Music social platform for discovering and sharing tracks*  
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-
----
-
-<img src="https://media.giphy.com/media/3o7qDEq2bMbcbPRQ2c/giphy.gif" width="40"> **Decentralized financial solution**
-
-# <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"> [PayCrypt](https://paycrypt.tech)
-*DeFi payment system with smart contracts*  
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white) ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white) ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
-
----
 
 
 
