@@ -1,5 +1,5 @@
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXA5MHp0N2dsOHZkb3RobjVsbmVjczZ1c3d3dWtnMjAzZjZrNzE4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gVlgj80ZLp9yo/giphy.gif" alt="Coding in action" width="100%" />
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=25825397856314802" height="400" width="450" frameborder="0" scrolling="no" ></iframe>
+
 
 <h2 align="left">Hi 👋, I'm Heet.</h1>
 <h3 align="left">A passionate Web developer. Love to build beautiful websites with latest tech available😄
