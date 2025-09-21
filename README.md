@@ -25,5 +25,5 @@
 ---
 
 <div align="center">
-  <i>⭐️ From [Heet](https://github.com/heetpro) with ❤️</i>
+  <i>⭐️ From [Heet](https://github.com/heetprox) with ❤️</i>
 </div>
