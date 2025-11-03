@@ -9,7 +9,7 @@
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Connect with Me
 
-🌐 **Portfolio:** [heet.pro](https://heet.pro) • 📝 **X:** [posts](https://x.com/heetprox) • 📧 **Email:** heetvavadiya099@gmail.com
+🌐 **Portfolio:** [heet.pro](https://heet.pro) • 📝 **X:** [posts](https://x.com/0xheet) • 📧 **Email:** heetvavadiya099@gmail.com
 
 
 
